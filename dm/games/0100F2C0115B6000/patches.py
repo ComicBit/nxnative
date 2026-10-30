@@ -206,5 +206,5 @@ BINDING = [
     {'what': 'TOTK perspective camera and viewport aspect producers', 'now': 'build', 'goal': 'game', 'purpose': 'rendering',
      'why': "the game's four projection update sites and their object layouts; drawable publication and presentation are general host behavior",
      'blocked': 'projection producers have no reviewed function fingerprints yet',
-     'checked': 'original words at all four sites checked in main 277178b7dba1b6d4949a84778d4abc58; native/wide cave Mac gameplay and camera acknowledgement'},
+     'checked': 'original words at all four sites checked in main 277178b7dba1b6d4949a84778d4abc58; pre-refresh native/wide cave Mac gameplay and camera acknowledgement (chain fda42ce035db); exact-branch runtime unrun'},
 ]

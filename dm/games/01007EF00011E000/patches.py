@@ -174,5 +174,5 @@ BINDING = [
     {'what': 'BOTW perspective camera aspect and projection acknowledgement', 'now': 'build', 'goal': 'game', 'purpose': 'rendering',
      'why': "the game's camera update and projection-object layout; drawable publication and presentation are general host behavior",
      'blocked': 'camera update has no reviewed function fingerprint yet',
-     'checked': 'all 13 original words checked in main cd57b23fa4bbad65803d9788c01821ee; native/wide outdoor Mac gameplay and camera acknowledgement'},
+     'checked': 'all 13 original words checked in main cd57b23fa4bbad65803d9788c01821ee; pre-refresh native/wide outdoor Mac gameplay and camera acknowledgement (chain fda42ce035db); exact-branch runtime unrun'},
 ]
